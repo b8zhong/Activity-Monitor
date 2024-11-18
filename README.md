@@ -1,6 +1,6 @@
-# InteractoGraph
+# Activity Monitor
 
-InteractoGraph is an automated solution for visualizing engagement metrics on DEV community articles, with support for other platforms. It uses GitHub Actions, Cypress for data collection, and Google Charts for visualization.
+Activity Monitor is an automated solution for visualizing engagement metrics on DEV community articles, with support for other platforms. It uses GitHub Actions, Cypress for data collection, and Charts visualization.
 
 ## Features
 
@@ -9,7 +9,7 @@ InteractoGraph is an automated solution for visualizing engagement metrics on DE
 - Deploys dashboards via GitHub Pages
 - Simple setup and customization
 
-## Quick Start
+## Start
 
 1. Clone the repository.
 2. Customize the user in `./cypress/e2e/0-mine/all_in_one.cy.js`.
